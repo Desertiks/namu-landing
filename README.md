@@ -1,4 +1,7 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# NAMU museum landing page
+
+- Summary: The project embodies a layout dedicated to art and news related to it.
+- During the creation of the layout, the following were used: HTML5, CSS3, SASS(SCSS), BEM
+- Link to demo (https://desertiks.github.io/Museum_2/)
+- Link to maket [Figma design](https://www.figma.com/file/HL3XGt5ZatvJoYBhOaWY5x/museum-prototype?node-id=323%3A1957)
+- To run the project, you need to write to the console: `npm i`
